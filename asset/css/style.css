@@ -55,7 +55,7 @@ nav{
 	#background-size: cover !important;
 }
 .nav > .li > a{
-	padding: 10px 6px;
+	padding: 10px 6px !important;
 }
 
 @media (max-width:650px){
