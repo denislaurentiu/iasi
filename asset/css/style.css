@@ -3,48 +3,52 @@
 font-family: "denis";
 scr: url("asset/Lovely Home.ttf");	
 }
+
 nav{
 	border-radius: 0!important;
 	margin-bottom: 0 !important;
 
 }
+
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
 	height: 500px !important;
 	width: 100%;
 
 }
+
 .jumbotron {
-   
+  
     background-color: #eeeeee69 !important;
    
 }
+
 .jumbotron h1{
 font-family: "Lobster", "Sans-serif";
 }
+
 .jumbotron p:first-child{
 
 	font-family:  "denis";
 }
+
 .jumbotron > a{
 
 	font-family: "Satisfy";
 }
-.culita{
-	background: black;
-	width: 800px;
-	height: 800px;
-	margin: 0 auto;
-}
+
 .active{
 	background: tomato !important;
 	border-color: tomato !important;
 }
+
 .btn:focus{
 	outline: none !important;
 }
+
 .carusel img{
 	background size: cover !important;
 }
+
 .img1{
 	background: url(http://www.exclusivnews.ro/wp-content/uploads/2016/05/Palatul-Culturii-Iasi.jpg) no-repeat center center;
 	width: 100%;
@@ -52,6 +56,7 @@ font-family: "Lobster", "Sans-serif";
 	background-size: cover;
 	background-position: top;
 }
+
 .img2{
 	background: url(http://www.fly-go.ro/blog/wp-content/uploads/2015/03/teatrul-national-vasile-alecsandri-iasi.jpg) no-repeat center center;
 	width: 100%;
@@ -60,6 +65,7 @@ font-family: "Lobster", "Sans-serif";
 	background-position: 70% 30%;
 
 }
+
 .img3{
 	background: url(http://iasi2021.ro/content/uploads/2015/12/MG_6948.png) no-repeat center center;
 	width: 100%;
@@ -67,13 +73,15 @@ font-family: "Lobster", "Sans-serif";
 	background-size: cover;
 	background-position: top;
 }
+
 .carousel-inner .item{
 	#background-size: cover !important;
 }
+
 .nav > li > a{
 	padding: 10px 6px !important;
 }
-.
+
 
 @media (max-width:650px){
 	.culita{
