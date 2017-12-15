@@ -54,7 +54,7 @@ nav{
 .carousel-inner .item{
 	#background-size: cover !important;
 }
-.nav > .li > a{
+.nav > li > a{
 	padding: 10px 6px !important;
 }
 
