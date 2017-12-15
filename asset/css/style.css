@@ -17,7 +17,7 @@ nav{
 .jumbotron h1{
 font-family: "Lobster", "Sans-serif";
 }
-.jumbotron a{
+.jumbotron > a{
 
 	font-family: "Satisfy";
 }
