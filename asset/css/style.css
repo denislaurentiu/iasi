@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster|Satisfy');
+@font-face{
+font-family: "denis";
+scr: url("asset/Lovely Home.ttf");	
+}
 nav{
 	border-radius: 0!important;
 	margin-bottom: 0 !important;
@@ -16,6 +20,9 @@ nav{
 }
 .jumbotron h1{
 font-family: "Lobster", "Sans-serif";
+}
+.jumbotron p{
+	font-family: "denis";
 }
 .jumbotron > a{
 
