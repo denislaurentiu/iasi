@@ -54,6 +54,10 @@ nav{
 .carousel-inner .item{
 	#background-size: cover !important;
 }
+.nav > .li > a{
+	padding: 10px 6px;
+}
+
 @media (max-width:650px){
 	.culita{
 		width: 80%;
