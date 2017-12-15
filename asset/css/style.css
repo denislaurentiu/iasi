@@ -17,8 +17,9 @@ nav{
 .jumbotron h1{
 font-family: "Lobster", "Sans-serif";
 }
-.jumbotron p{
-font-family: "Satisfy", "Sans-serif";
+.jumbotron p:first-child{
+
+	font-family: "Satisfy";
 }
 .culita{
 	background: black;
