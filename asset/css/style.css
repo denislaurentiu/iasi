@@ -23,8 +23,8 @@ font-family: "Lobster", "Sans-serif";
 font-family: 'Dancing Script', cursive;
 }
 
-.jumbotron > a{
-	font-family: "Satisfy";
+.jumbotron p{
+margin-top: 25px;
 }
 
 .active{
