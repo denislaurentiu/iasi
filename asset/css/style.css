@@ -22,8 +22,8 @@ nav{
 font-family: "Lobster", "Sans-serif";
 }
 
-.jumbotron p:first-child{
-	font-family:  "denis";
+.jumbotron h2{
+font-family:  "denis";
 }
 
 .jumbotron > a{
